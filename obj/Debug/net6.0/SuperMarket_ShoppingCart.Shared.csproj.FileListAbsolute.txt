@@ -1,0 +1,12 @@
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\bin\Debug\net6.0\SuperMarket_ShoppingCart.Shared.deps.json
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\bin\Debug\net6.0\SuperMarket_ShoppingCart.Shared.dll
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\bin\Debug\net6.0\SuperMarket_ShoppingCart.Shared.pdb
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\SuperMarket_ShoppingCart.Shared.csproj.AssemblyReference.cache
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\SuperMarket_ShoppingCart.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\SuperMarket_ShoppingCart.Shared.AssemblyInfoInputs.cache
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\SuperMarket_ShoppingCart.Shared.AssemblyInfo.cs
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\SuperMarket_ShoppingCart.Shared.csproj.CoreCompileInputs.cache
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\SuperMarket_ShoppingCart.Shared.dll
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\refint\SuperMarket_ShoppingCart.Shared.dll
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\SuperMarket_ShoppingCart.Shared.pdb
+G:\ShoppingCart\SuperMarket_ShoppingCart.Shared\obj\Debug\net6.0\ref\SuperMarket_ShoppingCart.Shared.dll
